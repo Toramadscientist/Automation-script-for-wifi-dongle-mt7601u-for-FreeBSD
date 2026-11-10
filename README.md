@@ -34,12 +34,12 @@ These instructions were tested on FreeBSD 15.x.
 2. Clone this repository:
 
    ```
-   git clone https://github.com/username/freebsd-mt6701u-wifi-fix.git
+   git https://github.com/Toramadscientist/Automation-script-for-wifi-dongle-mt7601u-for-FreeBSD.git
    ```
 3. Change to the repository directory:
 
    ```
-   cd freebsd-mt7601u-wifi-fix
+   cd Automation-script-for-wifi-dongle-mt7601u-for-FreeBSD
    ```
 4. Make the script executable:
 
@@ -49,7 +49,7 @@ These instructions were tested on FreeBSD 15.x.
 5. Run the setup script as root:
 
    ```
-   sudo ./setup-wifi.sh
+   ./setup-wifi.sh
    ```
 6. Follow the on-screen prompts to scan for nearby networks, enter your Wi-Fi SSID, and input your WPA password.
 
